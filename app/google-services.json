@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "143785560598",
+    "firebase_url": "https://smsspy-9cfb8.firebaseio.com",
+    "project_id": "smsspy-9cfb8",
+    "storage_bucket": "smsspy-9cfb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143785560598:android:2cad43592c6543e8",
+        "android_client_info": {
+          "package_name": "com.example.moonc.sms_spy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143785560598-abddgeh75t2cpgpqj62ug0e62rsmhdmr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moonc.sms_spy",
+            "certificate_hash": "b3bc63b6121d004ee646d909fca40815ad263904"
+          }
+        },
+        {
+          "client_id": "143785560598-b694ln8b3p4p88fufqea7dd149pt5o7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0AJSl52n8hCZPHKwe9jnpMtvgxSiTigk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143785560598-b694ln8b3p4p88fufqea7dd149pt5o7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
